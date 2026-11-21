@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw data pulled from NYC Open Data (re-create by running src/extract.py)
+data/
