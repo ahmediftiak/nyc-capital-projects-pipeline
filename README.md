@@ -77,3 +77,4 @@ Python (pandas, requests, SQLAlchemy, pyodbc), SQL Server Express, SSMS, Power B
 ## About
 
 Built by Iftiak Ahmed as a portfolio project for data analytics and automation roles.
+Built with help from Claude (AI) for guidance and debugging. All code was run and the results checked by me.
